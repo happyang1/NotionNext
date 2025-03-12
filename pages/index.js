@@ -82,8 +82,6 @@ export async function getStaticProps(req) {
   }
 }
 
-export default Index
-
 <div id="comments">
   <script src="https://utteranc.es/client.js"
     repo="your-username/my-blog-comments"
@@ -93,3 +91,7 @@ export default Index
     async>
   </script>
 </div>
+
+export default Index
+
+
