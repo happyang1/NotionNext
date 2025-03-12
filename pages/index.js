@@ -82,16 +82,6 @@ export async function getStaticProps(req) {
   }
 }
 
-<div id="comments">
-  <script src="https://utteranc.es/client.js"
-    repo="your-username/my-blog-comments"
-    issue-term="pathname"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
-  </script>
-</div>
-
 export default Index
 
 
